@@ -2,4 +2,4 @@
 
 Mocks HTTP requests and responses.
 
-See https://godoc.org/yourkarma.com/webmock
+See https://godoc.org/github.com/yourkarma/webmock
